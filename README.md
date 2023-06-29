@@ -9,13 +9,16 @@ Otobüs bileti alma projem
 
 |  Parameter   | Type     | Description     |
 |:-------------|:---------|:----------------|
-| `companyName`| `string` | Company Name    |
+| `-`| `-` | `-` |
 
 ```
 {
-    "otobus": {
+    "otobus":
+    {
         "id": 1
     },
     "yolcuAdi": "Sinan"
 }
 ```
+
+
