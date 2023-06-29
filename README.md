@@ -4,7 +4,9 @@ Otobüs bileti alma projem
 #### Save Company
 
 ```````````````
-  POST  http://localhost:8080/api/v1/company](http://localhost:8080/biletler
+  POST :
+
+[http://localhost:8080/biletler]
 
 
 
@@ -16,5 +18,15 @@ Otobüs bileti alma projem
     "yolcuAdi": "Sinan"
 }
 ```````````````
+  POST :
+
+[http://localhost:8080/otobusler]
 
 
+
+{
+    "id":"1",
+    "marka":"Pamukkale",
+    "model":"2015"
+}
+```````````````
