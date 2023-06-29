@@ -5,8 +5,9 @@ Otobüs bileti alma projem
 
 ```````````````
   POST :
-
-[http://localhost:8080/biletler]
+```http
+  POST  [http://localhost:8080/biletler]
+```
 
 
 
