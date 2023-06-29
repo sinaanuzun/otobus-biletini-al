@@ -18,15 +18,3 @@ Otobüs bileti alma projem
     "yolcuAdi": "Sinan"
 }
 ```````````````
-  POST :
-
-[http://localhost:8080/otobusler]
-
-
-
-{
-    "id":"1",
-    "marka":"Pamukkale",
-    "model":"2015"
-}
-```````````````
