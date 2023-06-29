@@ -24,15 +24,13 @@ Otobüs bileti alma projem
 ```````````````
   POST :
 
-[http://localhost:8080/biletler]
+[http://localhost:8080/otobusler]
 
 
 
 {
-    "otobus":
-    {
-        "id": 1
-    },
-    "yolcuAdi": "Sinan"
+    "id":"1",
+    "marka":"Pamukkale",
+    "model":"2015"
 }
 ```````````````
