@@ -18,3 +18,21 @@ Otobüs bileti alma projem
     "yolcuAdi": "Sinan"
 }
 ```````````````
+
+
+
+```````````````
+  POST :
+
+[http://localhost:8080/biletler]
+
+
+
+{
+    "otobus":
+    {
+        "id": 1
+    },
+    "yolcuAdi": "Sinan"
+}
+```````````````
